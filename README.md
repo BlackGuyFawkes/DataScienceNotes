@@ -1,9 +1,53 @@
-# DataScienceNotes
-Data Science Notebooks from Kaggle
+# My Data Science Notes
 
-# 1. Netflix Movie Database Analysis
-## by Maduako Akachi
 
+# 1. Wrangling and Analyze Data (Udacity Submission)
+
+## Dataset
+
+> Here we have 3 different datasets which with different pieces of infomation. The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found here: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
+
+
+## Summary of Findings
+
+> In the exploration, I discovered that majority of the users of the rideshare are in the midlife and old ages. There is a moderate amount of users who are young with very little amount of them very young and very old. As for their genders, most of the users are male with less than half of them females and very little amount of them with undisclosed genders. A significantly major part of the users are subscribers with very little amount of them falling into the customer category. I also found that there is a correlation between the time spent on the rideshare and agegroup and that users in the midlife and the old group of the age group spent more time user the ride share than any of the other age groups.
+
+
+
+![Wrangling Dataset](/assets/img/wrangling.png)
+
+
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-analyzing-data-by-maduako-akachi)
+
+
+
+# 2. TMDB Movie Data Analysis
+
+## Dataset
+
+> The dataset consists of contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. There were 10866 entries in this dataset with 21 features. Irrelevant features ('imdb_id', 'homepage', 'tagline', 'overview', 'production_companies', 'keywords') were dropped to make it 15 features. There are 6 numerical columns and 9 categorical columns. The Genre column was split to give individual genre values. The dataset can be found here: https://www.kaggle.com/datasets/afsarjan23/tmdb-movies-dataset
+
+
+## Summary of Findings
+
+> In the exploration, I discovered that Action, Adventure, Science Fiction, Thriller are the most popular movie genres. I also discovered, by plotting several scatter plots how much revenue was produced over the years.
+
+
+![Tmdb Dataset](/assets/img/tmdb.png)
+
+
+
+# 3. Eda & Predictive Analysis of an e-commerce sales dataset
+
+## Dataset
+
+> The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
+
+![Sales Dataset](/assets/img/sales.png)
+
+
+
+# 4. Netflix Movie Database Analysis
 
 ## Dataset
 
@@ -29,33 +73,28 @@ Data Science Notebooks from Kaggle
 > In the exploration, I discovered that the answers to the questions asked. House of Cards had the show ID of s2833 and was directed by Robin Wright, David Fincher, ect. 2019 was the year highest number of movies and tv shows was released. There are also a total of 5377 movies and 2410 tv shows. These and many more answered were discovered. All question were answered correctly using different methods. 
 
 
+![Netflix Dataset](/assets/img/netflix.png)
+
+
+Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-analysis)
 
 
 
-# 2. TMDB Movie Data Analysis
-## by Maduako Akachi
-
-
-## Dataset
-
-> The dataset consists of contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. There were 10866 entries in this dataset with 21 features. Irrelevant features ('imdb_id', 'homepage', 'tagline', 'overview', 'production_companies', 'keywords') were dropped to make it 15 features. There are 6 numerical columns and 9 categorical columns. The Genre column was split to give individual genre values. The dataset can be found here: https://www.kaggle.com/datasets/afsarjan23/tmdb-movies-dataset
-
-
-## Summary of Findings
-
-> In the exploration, I discovered that Action, Adventure, Science Fiction, Thriller are the most popular movie genres. I also discovered, by plotting several scatter plots how much revenue was produced over the years.
-
-
-
-
-
-# 3. Wrangling and Analyze Data
-## by Maduako Akachi
-
+# 5. FREE AI Classes In Every City (Hackathon Submission)
 
 ## Dataset
 
-> Here we have 3 different datasets which with different pieces of infomation. The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found here: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
+> The dataset consists of information regarding sales from A Nigerian automobile company, Great Motors that deals in sale of used cars. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/free-ai-classes-in-every-city-hackathon) and [here](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon)
+
+![DSN Dataset](/assets/img/sales.png)
+
+
+
+# 6. Ford GoBike System Data (Udacity Submission)
+
+## Dataset
+
+> The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found here: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 
 
 ## Summary of Findings
@@ -63,12 +102,40 @@ Data Science Notebooks from Kaggle
 > In the exploration, I discovered that majority of the users of the rideshare are in the midlife and old ages. There is a moderate amount of users who are young with very little amount of them very young and very old. As for their genders, most of the users are male with less than half of them females and very little amount of them with undisclosed genders. A significantly major part of the users are subscribers with very little amount of them falling into the customer category. I also found that there is a correlation between the time spent on the rideshare and agegroup and that users in the midlife and the old group of the age group spent more time user the ride share than any of the other age groups.
 
 
+## Key Insights for Presentation
+
+> For the presentation, I focus more on the relationship between the time spent on the rideshare and the gender of the users. I also looked at the agegroup of the users and the relationship with the time spent on the rideshare.
+
+> I use a KDEplot to show the distribution of the user gender and the duration of the bikeshare rides. I also use a KDEplot and a piechart to show the distribution of agegroup of users and the duration o fthe bikeshare rides. Finally, I use a facetgrid to show the corelation between the age group of users and the time spent on the rideshare.
+
+
+![Ford Dataset](/assets/img/ford.png)
+
+
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/ford-gobike-system-data-part1)
 
 
 
-# 4. clientIdentity
-## by Maduako Akachi
+# 7. CustomerAndBasket
 
+## Dataset
+
+> Here we have 2 different datasets which with different pieces of infomation. The first dataset consists of information regarding the basket used in the store. There were 15000 entries in this dataset with 4 features. The second dataset consists of information regarding the customer. This dataset had 20000 entries 4 features. There were no missing values or duplicates in both datasets, but the customer gae in teh customer dataset had to be converted to whole numbers. Both datasets contained three numerical columns and one categorical columns. Outliers were dropped using the IQR method. The dataset can be found here: 
+
+
+## Summary of Findings
+
+> In the exploration, I discovered that 
+
+
+![Tmdb Dataset](/assets/img/tmdb.png)
+
+
+Kaggle file is [here](https://www.kaggle.com/akachimaduako)
+
+
+
+# 8. ClientIdentity
 
 ## Dataset
 
@@ -81,17 +148,17 @@ Data Science Notebooks from Kaggle
 
 
 
+![Client Dataset](/assets/img/client.png)
 
 
-# 5. CustomerAndBasket
-## by Maduako Akachi
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identities)
 
+
+
+# 9. Eda & Predictive Analysis of a Big Mart
 
 ## Dataset
 
-> Here we have 2 different datasets which with different pieces of infomation. The first dataset consists of information regarding the basket used in the store. There were 15000 entries in this dataset with 4 features. The second dataset consists of information regarding the customer. This dataset had 20000 entries 4 features. There were no missing values or duplicates in both datasets, but the customer gae in teh customer dataset had to be converted to whole numbers. Both datasets contained three numerical columns and one categorical columns. Outliers were dropped using the IQR method. The dataset can be found here: 
+> The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
 
-
-## Summary of Findings
-
-> In the exploration, I discovered that 
+![BigMart Dataset](/assets/img/bigmart.png)
