@@ -1,7 +1,7 @@
 # DataScienceNotes
 Data Science Notebooks from Kaggle
 
-# Netflix Movie Database Analysis
+# 1. Netflix Movie Database Analysis
 ## by Maduako Akachi
 
 
@@ -32,7 +32,7 @@ Data Science Notebooks from Kaggle
 
 
 
-# TMDB Movie Data Analysis
+# 2. TMDB Movie Data Analysis
 ## by Maduako Akachi
 
 
@@ -49,7 +49,7 @@ Data Science Notebooks from Kaggle
 
 
 
-# Wrangling and Analyze Data
+# 3. Wrangling and Analyze Data
 ## by Maduako Akachi
 
 
@@ -66,7 +66,7 @@ Data Science Notebooks from Kaggle
 
 
 
-# clientIdentity
+# 4. clientIdentity
 ## by Maduako Akachi
 
 
@@ -83,7 +83,7 @@ Data Science Notebooks from Kaggle
 
 
 
-# CustomerAndBasket
+# 5. CustomerAndBasket
 ## by Maduako Akachi
 
 
