@@ -14,7 +14,7 @@
 
 
 
-![Wrangling Dataset](/assets/img/wrangling.png)
+![Wrangling Dataset](/wrangling.png)
 
 
 Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-analyzing-data-by-maduako-akachi)
@@ -33,7 +33,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 > In the exploration, I discovered that Action, Adventure, Science Fiction, Thriller are the most popular movie genres. I also discovered, by plotting several scatter plots how much revenue was produced over the years.
 
 
-![Tmdb Dataset](/assets/img/tmdb.png)
+![Tmdb Dataset](/tmdb.png)
 
 
 
@@ -43,7 +43,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 
 > The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
 
-![Sales Dataset](/assets/img/sales.png)
+![Sales Dataset](/sales.png)
 
 
 
@@ -73,7 +73,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 > In the exploration, I discovered that the answers to the questions asked. House of Cards had the show ID of s2833 and was directed by Robin Wright, David Fincher, ect. 2019 was the year highest number of movies and tv shows was released. There are also a total of 5377 movies and 2410 tv shows. These and many more answered were discovered. All question were answered correctly using different methods. 
 
 
-![Netflix Dataset](/assets/img/netflix.png)
+![Netflix Dataset](/netflix.png)
 
 
 Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-analysis)
@@ -86,7 +86,7 @@ Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-an
 
 > The dataset consists of information regarding sales from A Nigerian automobile company, Great Motors that deals in sale of used cars. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/free-ai-classes-in-every-city-hackathon) and [here](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon)
 
-![DSN Dataset](/assets/img/sales.png)
+![DSN Dataset](/sales.png)
 
 
 
@@ -109,7 +109,7 @@ Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-an
 > I use a KDEplot to show the distribution of the user gender and the duration of the bikeshare rides. I also use a KDEplot and a piechart to show the distribution of agegroup of users and the duration o fthe bikeshare rides. Finally, I use a facetgrid to show the corelation between the age group of users and the time spent on the rideshare.
 
 
-![Ford Dataset](/assets/img/ford.png)
+![Ford Dataset](/ford.png)
 
 
 Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/ford-gobike-system-data-part1)
@@ -128,7 +128,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/ford-gobike-syst
 > In the exploration, I discovered that 
 
 
-![Tmdb Dataset](/assets/img/tmdb.png)
+![Tmdb Dataset](/tmdb.png)
 
 
 Kaggle file is [here](https://www.kaggle.com/akachimaduako)
@@ -148,7 +148,7 @@ Kaggle file is [here](https://www.kaggle.com/akachimaduako)
 
 
 
-![Client Dataset](/assets/img/client.png)
+![Client Dataset](/client.png)
 
 
 Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identities)
@@ -161,4 +161,4 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identitie
 
 > The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
 
-![BigMart Dataset](/assets/img/bigmart.png)
+![BigMart Dataset](/bigmart.png)
