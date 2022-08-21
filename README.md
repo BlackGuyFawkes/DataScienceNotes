@@ -1,6 +1,10 @@
 # My Data Science Notes
 
-<img src="/avatar.jpg" width="300">Maduako Akachi
+<figure>
+  <img src="/avatar.jpg" width="300
+       alt="Maduako Akachi">
+  <figcaption>Maduako Akachi</figcaption>
+</figure>
 
 # Introduction
 > This is a repository of my data science research. It contains the notebooks and summaries of different datasets I worked on. It is divided into 3 parts, the Data Analytics, Predictive Analytics with ML/AI, Deep Learning parts.
