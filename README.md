@@ -1,5 +1,15 @@
 # My Data Science Notes
 
+> # Introduction
+> This is a repository of my data science research. It contains the notebooks and summaries of different datasets I worked on. It is divided into 3 parts, the Data Analytics, Predictive Analytics with ML/AI, Deep Learning parts.
+> Each part has a summary and a notebook. The summary includes a brief introduction of the dataset, the purpose of the analysis, the findings of the analysis and links for the location on kaggle.com. 
+> I hope to include BigML analysis exports, H2O AutoML notebooks, Google Data Studio and Power BI visualization exports.
+> I am currrently enrolled in the Nvidia Developer Program with a scholarship for the Nvidia Deep Learning Institute. So, for the Deep Learning Section, I will try to also include notebooks from the lab exercises. Those will be included later as this repository is a work in progress and will be regularly updated.
+
+Enjoy.
+
+# SECTION 1. DATA ANALYSIS
+
 
 # 1. Wrangling and Analyze Data (Udacity Submission)
 
@@ -21,7 +31,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 
 
 
-# 2. TMDB Movie Data Analysis
+# 2. TMDB Movie Data Analysis (Udacity Submission)
 
 ## Dataset
 
@@ -36,18 +46,72 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 ![Tmdb Dataset](/tmdb.png)
 
 
-
-# 3. Eda & Predictive Analysis of an e-commerce sales dataset
+# 3. Ford GoBike System Data (Udacity Submission)
 
 ## Dataset
 
-> The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
-
-![Sales Dataset](/sales.png)
+> The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found here: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 
 
+## Summary of Findings
 
-# 4. Netflix Movie Database Analysis
+> In the exploration, I discovered that majority of the users of the rideshare are in the midlife and old ages. There is a moderate amount of users who are young with very little amount of them very young and very old. As for their genders, most of the users are male with less than half of them females and very little amount of them with undisclosed genders. A significantly major part of the users are subscribers with very little amount of them falling into the customer category. I also found that there is a correlation between the time spent on the rideshare and agegroup and that users in the midlife and the old group of the age group spent more time user the ride share than any of the other age groups.
+
+
+## Key Insights for Presentation
+
+> For the presentation, I focus more on the relationship between the time spent on the rideshare and the gender of the users. I also looked at the agegroup of the users and the relationship with the time spent on the rideshare.
+
+> I use a KDEplot to show the distribution of the user gender and the duration of the bikeshare rides. I also use a KDEplot and a piechart to show the distribution of agegroup of users and the duration o fthe bikeshare rides. Finally, I use a facetgrid to show the corelation between the age group of users and the time spent on the rideshare.
+
+
+![Ford Dataset](/ford.png)
+
+
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/ford-gobike-system-data-part1)
+
+
+
+# 4. CustomerAndBasket
+
+## Dataset
+
+> Here we have 2 different datasets which with different pieces of infomation. The first dataset consists of information regarding the basket used in the store. There were 15000 entries in this dataset with 4 features. The second dataset consists of information regarding the customer. This dataset had 20000 entries 4 features. There were no missing values or duplicates in both datasets, but the customer gae in teh customer dataset had to be converted to whole numbers. Both datasets contained three numerical columns and one categorical columns. Outliers were dropped using the IQR method. The dataset can be found here: 
+
+
+## Summary of Findings
+
+> In the exploration, I discovered that 
+
+
+![Tmdb Dataset](/tmdb.png)
+
+
+Kaggle file is [here](https://www.kaggle.com/akachimaduako)
+
+
+
+# 5. ClientIdentity
+
+## Dataset
+
+> The dataset consists of information regarding Introduction about users from an online database. It is a very small dataset with just 30 entries and 11 features. The data had already been cleaned prior to download, so there was any additional transformation done. The dataset can be found here: 
+
+
+## Summary of Findings
+
+> In the exploration, I discovered that California (CA) had the largest number of clients with 6 clients. 
+
+
+
+![Client Dataset](/client.png)
+
+
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identities)
+
+
+
+# 6. Netflix Movie Database Analysis
 
 ## Dataset
 
@@ -79,8 +143,9 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-analysis)
 
 
+# SECTION 2. PREDICTIVE ANALYSIS USING ML/AI
 
-# 5. FREE AI Classes In Every City (Hackathon Submission)
+# 1. FREE AI Classes In Every City (Hackathon Submission)
 
 ## Dataset
 
@@ -90,75 +155,25 @@ Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-an
 
 
 
-# 6. Ford GoBike System Data (Udacity Submission)
-
-## Dataset
-
-> The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found here: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
-
-
-## Summary of Findings
-
-> In the exploration, I discovered that majority of the users of the rideshare are in the midlife and old ages. There is a moderate amount of users who are young with very little amount of them very young and very old. As for their genders, most of the users are male with less than half of them females and very little amount of them with undisclosed genders. A significantly major part of the users are subscribers with very little amount of them falling into the customer category. I also found that there is a correlation between the time spent on the rideshare and agegroup and that users in the midlife and the old group of the age group spent more time user the ride share than any of the other age groups.
-
-
-## Key Insights for Presentation
-
-> For the presentation, I focus more on the relationship between the time spent on the rideshare and the gender of the users. I also looked at the agegroup of the users and the relationship with the time spent on the rideshare.
-
-> I use a KDEplot to show the distribution of the user gender and the duration of the bikeshare rides. I also use a KDEplot and a piechart to show the distribution of agegroup of users and the duration o fthe bikeshare rides. Finally, I use a facetgrid to show the corelation between the age group of users and the time spent on the rideshare.
-
-
-![Ford Dataset](/ford.png)
-
-
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/ford-gobike-system-data-part1)
-
-
-
-# 7. CustomerAndBasket
-
-## Dataset
-
-> Here we have 2 different datasets which with different pieces of infomation. The first dataset consists of information regarding the basket used in the store. There were 15000 entries in this dataset with 4 features. The second dataset consists of information regarding the customer. This dataset had 20000 entries 4 features. There were no missing values or duplicates in both datasets, but the customer gae in teh customer dataset had to be converted to whole numbers. Both datasets contained three numerical columns and one categorical columns. Outliers were dropped using the IQR method. The dataset can be found here: 
-
-
-## Summary of Findings
-
-> In the exploration, I discovered that 
-
-
-![Tmdb Dataset](/tmdb.png)
-
-
-Kaggle file is [here](https://www.kaggle.com/akachimaduako)
-
-
-
-# 8. ClientIdentity
-
-## Dataset
-
-> The dataset consists of information regarding Introduction about users from an online database. It is a very small dataset with just 30 entries and 11 features. The data had already been cleaned prior to download, so there was any additional transformation done. The dataset can be found here: 
-
-
-## Summary of Findings
-
-> In the exploration, I discovered that California (CA) had the largest number of clients with 6 clients. 
-
-
-
-![Client Dataset](/client.png)
-
-
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identities)
-
-
-
-# 9. Eda & Predictive Analysis of a Big Mart
+# 2. Eda & Predictive Analysis of a Big Mart
 
 ## Dataset
 
 > The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
 
 ![BigMart Dataset](/bigmart.png)
+
+
+# 3. Eda & Predictive Analysis of an e-commerce sales dataset
+
+## Dataset
+
+> The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
+
+![Sales Dataset](/sales.png)
+
+
+
+SECTION 3. DEEP LEARNING
+
+### I'm still working on Nvidia Deep Learning Institute labs. When I'm done, I will update this repo with the notebooks.
