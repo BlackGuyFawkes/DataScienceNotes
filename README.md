@@ -174,6 +174,6 @@ Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-an
 
 
 
-SECTION 3. DEEP LEARNING
+# SECTION 3. DEEP LEARNING
 
 ### I'm still working on Nvidia Deep Learning Institute labs. When I'm done, I will update this repo with the notebooks.
