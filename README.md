@@ -1,5 +1,7 @@
 # My Data Science Notes
 
+![Maduako Akachi](/avatar.jpg)
+
 # Introduction
 > This is a repository of my data science research. It contains the notebooks and summaries of different datasets I worked on. It is divided into 3 parts, the Data Analytics, Predictive Analytics with ML/AI, Deep Learning parts.
 > Each part has a summary and a notebook. The summary includes a brief introduction of the dataset, the purpose of the analysis, the findings of the analysis and links for the location on kaggle.com. 
