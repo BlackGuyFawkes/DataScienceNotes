@@ -9,7 +9,7 @@
 # INTRODUCTION
 > This is a repository for my data science research. It contains the notebooks and summaries of different datasets I worked on. It is divided into 3 parts, the Data Analytics, Predictive Analytics with ML/AI and Deep Learning parts.
 > Each part has a summary and a notebook. The summary includes a brief introduction of the dataset, the purpose of the analysis, the findings of the analysis and links for the location on kaggle.com. 
-> I hope to include BigML analysis exports, H2O AutoML notebooks, Google Data Studio and Power BI visualization exports.
+> I hope to include BigML analysis exports, Google Data Studio and Power BI visualization exports.
 > I am currrently enrolled in the Nvidia Developer Program with a scholarship for the Nvidia Deep Learning Institute. So, for the Deep Learning Section, I will try to also include notebooks from the lab exercises. Those will be included later as this repository is a work in progress and will be regularly updated.
 
 Enjoy.
@@ -21,7 +21,7 @@ Enjoy.
 
 ## Dataset
 
-> Here we have 3 different datasets which with different pieces of infomation. The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found here: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
+> Here we have 3 different datasets which with different pieces of infomation. The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv)
 
 
 ## Summary of Findings
@@ -41,7 +41,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 
 ## Dataset
 
-> The dataset consists of contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. There were 10866 entries in this dataset with 21 features. Irrelevant features ('imdb_id', 'homepage', 'tagline', 'overview', 'production_companies', 'keywords') were dropped to make it 15 features. There are 6 numerical columns and 9 categorical columns. The Genre column was split to give individual genre values. The dataset can be found here: https://www.kaggle.com/datasets/afsarjan23/tmdb-movies-dataset
+> The dataset consists of contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. There were 10866 entries in this dataset with 21 features. Irrelevant features ('imdb_id', 'homepage', 'tagline', 'overview', 'production_companies', 'keywords') were dropped to make it 15 features. There are 6 numerical columns and 9 categorical columns. The Genre column was split to give individual genre values. The dataset can be found [here](https://www.kaggle.com/datasets/afsarjan23/tmdb-movies-dataset)
 
 
 ## Summary of Findings
@@ -58,7 +58,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/tmdb-movie-data-
 
 ## Dataset
 
-> The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found here: https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
+> The dataset consists of information regarding individual rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 183412 entries in this dataset with 16 features. Irrelevant features were dropped to make it 6 features (duration_sec, user_type, member_birth_year, member_gender and AgeGroup). There are two numerical columns and three categorical columns. The AgeGroup column was created to classify the member_birth_year into 5 different categories. very old, Old, midlife, young and very young. The dataset can be found [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv)
 
 
 ## Summary of Findings
@@ -123,7 +123,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identitie
 
 ## Dataset
 
-> The dataset contains details of movies released on Netflix from 2008 to 2021. There were 7789 entries in this dataset with 11 features. During the cleanup process, more features were added namely, Year, minutes and units to make it 14 features. A new dataframe had to be created where all null values were dropped. I got this dataset from Data Science Lovers on Youtube. The dataset can be found here (https://drive.google.com/file/d/1p630pDcSkbQp_WXig8PeEVevZtSo4GQK/view). Several questions were asked during the course of this analysis, they include, 
+> The dataset contains details of movies released on Netflix from 2008 to 2021. There were 7789 entries in this dataset with 11 features. During the cleanup process, more features were added namely, Year, minutes and units to make it 14 features. A new dataframe had to be created where all null values were dropped. I got this dataset from Data Science Lovers on Youtube. The dataset can be found [here](https://drive.google.com/file/d/1p630pDcSkbQp_WXig8PeEVevZtSo4GQK/view). Several questions were asked during the course of this analysis, they include, 
 > For 'House of Cards', what is the Show Id and Who is the Director of this show ?
 > In which year the highest number of the TV Shows & Movies were released ? Show with Bar Graph.
 > How many Movies & TV Shows are in the dataset ? Show with Bar Graph.
