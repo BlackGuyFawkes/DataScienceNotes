@@ -51,7 +51,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 
 ![Tmdb Dataset](/tmdb.png)
 
-Kagglel file is [here](https://www.kaggle.com/code/akachimaduako/tmdb-movie-data-analysis), Notebook on Github can be found here: https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/tmdb-movie-data-analysis.ipynb
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/tmdb-movie-data-analysis), Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/tmdb-movie-data-analysis.ipynb)
 
 
 # 3. Ford GoBike System Data (Udacity Submission)
