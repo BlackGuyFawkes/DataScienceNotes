@@ -34,6 +34,7 @@ Enjoy.
 
 
 Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-analyzing-data-by-maduako-akachi)
+Notebook can also be found on GitHub [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/wrangling-and-analyzing-data-by-maduako-akachi.ipynb)
 
 
 
@@ -50,6 +51,9 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-an
 
 
 ![Tmdb Dataset](/tmdb.png)
+
+Kagglel file is [here](https://www.kaggle.com/code/akachimaduako/tmdb-movie-data-analysis)
+Notebook on Github can be found here: https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/tmdb-movie-data-analysis.ipynb
 
 
 # 3. Ford GoBike System Data (Udacity Submission)
@@ -114,6 +118,7 @@ Kaggle file is [here](https://www.kaggle.com/akachimaduako)
 
 
 Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identities)
+Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/client-identities.ipynb)
 
 
 
@@ -147,6 +152,7 @@ Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identitie
 
 
 Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-analysis)
+Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/netflix-movie-analysis.ipynb)
 
 
 # SECTION 2. PREDICTIVE ANALYSIS USING ML/AI
@@ -159,6 +165,9 @@ Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-an
 
 ![DSN Dataset](/sales.png)
 
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/free-ai-classes-in-every-city-hackathon)
+Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/free-ai-classes-in-every-city-hackathon.ipynb)
+
 
 
 # 2. Eda & Predictive Analysis of a Big Mart
@@ -169,6 +178,9 @@ Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-an
 
 ![BigMart Dataset](/bigmart.png)
 
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction)
+Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/bigmartprediction.ipynb)
+
 
 # 3. Eda & Predictive Analysis of an e-commerce sales dataset
 
@@ -177,6 +189,9 @@ Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-an
 > The dataset consists of information regarding sales from an online database of a big store. The dataset can be found [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction/notebook)
 
 ![Sales Dataset](/sales.png)
+
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/sales-prediction)
+Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/sales-prediction.ipynb)
 
 
 
