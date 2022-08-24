@@ -33,8 +33,7 @@ Enjoy.
 ![Wrangling Dataset](/wrangling.png)
 
 
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-analyzing-data-by-maduako-akachi)
-Notebook can also be found on GitHub [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/wrangling-and-analyzing-data-by-maduako-akachi.ipynb)
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/wrangling-and-analyzing-data-by-maduako-akachi), Notebook can also be found on GitHub [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/wrangling-and-analyzing-data-by-maduako-akachi.ipynb)
 
 
 
@@ -52,8 +51,7 @@ Notebook can also be found on GitHub [here](https://github.com/BlackGuyFawkes/Da
 
 ![Tmdb Dataset](/tmdb.png)
 
-Kagglel file is [here](https://www.kaggle.com/code/akachimaduako/tmdb-movie-data-analysis)
-Notebook on Github can be found here: https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/tmdb-movie-data-analysis.ipynb
+Kagglel file is [here](https://www.kaggle.com/code/akachimaduako/tmdb-movie-data-analysis), Notebook on Github can be found here: https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/tmdb-movie-data-analysis.ipynb
 
 
 # 3. Ford GoBike System Data (Udacity Submission)
@@ -78,7 +76,7 @@ Notebook on Github can be found here: https://github.com/BlackGuyFawkes/DataScie
 ![Ford Dataset](/ford.png)
 
 
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/ford-gobike-system-data-part1)
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/ford-gobike-system-data-part1), Notebook on GitHub is [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/ford-gobike-system-data-part1.ipynb)
 
 
 
@@ -117,8 +115,7 @@ Kaggle file is [here](https://www.kaggle.com/akachimaduako)
 ![Client Dataset](/client.png)
 
 
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identities)
-Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/client-identities.ipynb)
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/client-identities), Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/client-identities.ipynb)
 
 
 
@@ -151,8 +148,7 @@ Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataSci
 ![Netflix Dataset](/netflix.png)
 
 
-Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-analysis)
-Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/netflix-movie-analysis.ipynb)
+Kaggle link is [here](https://www.kaggle.com/code/akachimaduako/netflix-movie-analysis), Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/netflix-movie-analysis.ipynb)
 
 
 # SECTION 2. PREDICTIVE ANALYSIS USING ML/AI
@@ -165,8 +161,7 @@ Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataSci
 
 ![DSN Dataset](/sales.png)
 
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/free-ai-classes-in-every-city-hackathon)
-Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/free-ai-classes-in-every-city-hackathon.ipynb)
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/free-ai-classes-in-every-city-hackathon), Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/free-ai-classes-in-every-city-hackathon.ipynb)
 
 
 
@@ -178,8 +173,7 @@ Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataSci
 
 ![BigMart Dataset](/bigmart.png)
 
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction)
-Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/bigmartprediction.ipynb)
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/bigmartprediction), Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/bigmartprediction.ipynb)
 
 
 # 3. Eda & Predictive Analysis of an e-commerce sales dataset
@@ -190,8 +184,7 @@ Notebook on Github can be found [here](https://github.com/BlackGuyFawkes/DataSci
 
 ![Sales Dataset](/sales.png)
 
-Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/sales-prediction)
-Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/sales-prediction.ipynb)
+Kaggle file is [here](https://www.kaggle.com/code/akachimaduako/sales-prediction), Notebook on GitHub can be found [here](https://github.com/BlackGuyFawkes/DataScienceNotes/blob/main/sales-prediction.ipynb)
 
 
 
